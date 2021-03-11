@@ -9,7 +9,7 @@ and CSS styling. All which come together to provide a seamless desktop experienc
 Example of semantic structure and alt attribute:
 
 
-"![code refactor example](assets\images\coderefactor example.PNG)"
+"![code refactor example](assets/images/coderefactorexample.PNG)"
 
 <main class="services">
         <article id="search-engine-optimization" class="search-engine-optimization">
