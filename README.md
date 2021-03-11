@@ -11,8 +11,8 @@ Example of semantic structure and alt attribute:
 
 ![code refactor example](assets/images/coderefactorexample.PNG)
 
-In this example the <main> tag refers to the biggest section of content on the page, with each <article> holding a band of information, 
-navagation links to bring the user directly to the material, and a concise <alt> attribute describing the image in great detail. 
+In this example the main tag refers to the biggest section of content on the page, with each article holding a band of information, 
+navagation links to bring the user directly to the material, and a concise alt attribute describing the image in great detail. 
     
 
 
