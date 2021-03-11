@@ -35,6 +35,8 @@ header nav {
     font-size: 20px;
 }
 
+/*these header nav attributes control how the navagation links are displayed*/
+
 header nav ul {
     list-style-type: none;
 }
