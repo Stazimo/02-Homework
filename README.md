@@ -18,7 +18,7 @@ navagation links to bring the user directly to the material, and a concise alt a
 
 Getting Started:
 
-The code for this page is avalible at https://scottgeleas.github.io/CodeRefactor/.
+The page is live at https://scottgeleas.github.io/CodeRefactor/.
 
 Prerequisites:
 
@@ -26,6 +26,7 @@ In order to edit this web page you must have a Github account, and have also dow
 
 Create a Github account here: https://github.com/.
 Download Visual Studio here: https://code.visualstudio.com/download/.
+Repository link: https://github.com/scottgeleas/CodeRefactor
 
 Built With:
 
